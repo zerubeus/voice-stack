@@ -1,0 +1,10 @@
+# HA config (contains secrets, tokens, and large state files)
+ha-config/
+
+# Model caches (large binary files, auto-downloaded)
+whisper-data/
+piper-data/
+
+# Environment variables
+.env
+.env.*
